@@ -64,17 +64,14 @@ def plant_seed(your_skill):
 - 橘室通证：生态治理权益凭证
 - 灵魂勋章：链上铸造的成就NFT
 - 先知特权：优先体验实验性功能
+
 🛡️ 当前阶段暂不提供现金报酬
 
 
 
-## 🧡 联系我
 
-<img src="images/joyhouse-wechat.jpg" width="256" alt="橘室空间微信">
-
-
-
-## 
+## 🍵 加入橘室茶会
+<img src="images/joyhouse-wechat.jpg" alt="橘室空间微信" width="256" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(255,165,0,0.2);" />
 
 
 ```text

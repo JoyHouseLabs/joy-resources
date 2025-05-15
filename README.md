@@ -70,9 +70,6 @@ def plant_seed(your_skill):
 
 
 
-## 🍵 加入橘室茶会
-<img src="images/joyhouse-wechat.jpg" alt="橘室空间微信" width="256" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(255,165,0,0.2);" />
-
 
 ```text
 　　　　🟧🟧🟧  

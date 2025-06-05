@@ -50,16 +50,6 @@ def plant_seed(your_skill):
 - **传播大使**：制作宣传内容，分享至社交平台  
 - **社群园丁**：组建管理社群，培育交流生态 
 
-### 🌱 社区捐赠  
-- **ETH**:0xDd2753D6BC6922c07E1258C2C92159F2d6aba2db  
-- **SOL**:8YgkkT3pg5F3ouEqgncfVDWr6eoFhP2fpe8uFnFu4S3B
-- **BTC**:bc1qvqzuke588dnpfaxpy3a5qm4f9agzh4pd9qk3rj   
-
-## 📜 我们是谁
-- hanyh2004: 资深程序员.AI和区块连爱好者.项目发起人
-- badachao: 产品经理
-
-
 ## 🧡 贡献者奖励报酬
 - 橘室通证：生态治理权益凭证
 - 灵魂勋章：链上铸造的成就NFT
